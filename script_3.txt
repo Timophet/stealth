@@ -1,2 +1,7 @@
 gdfgsdgsdfg
+<<<<<<< HEAD
 new line
+=======
+cxvcb
+dfgdfgsdfg
+>>>>>>> test
